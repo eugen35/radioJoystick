@@ -1,0 +1,5 @@
+#clion
+.idea
+
+# dotenv environment variables file
+.env
